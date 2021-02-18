@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nihal-Portfolio/static/css/main.300acb78.chunk.css",
+    "main.js": "/Nihal-Portfolio/static/js/main.26a6e9ae.chunk.js",
+    "main.js.map": "/Nihal-Portfolio/static/js/main.26a6e9ae.chunk.js.map",
+    "runtime-main.js": "/Nihal-Portfolio/static/js/runtime-main.529dbd3c.js",
+    "runtime-main.js.map": "/Nihal-Portfolio/static/js/runtime-main.529dbd3c.js.map",
+    "static/css/2.9905d55a.chunk.css": "/Nihal-Portfolio/static/css/2.9905d55a.chunk.css",
+    "static/js/2.d0c54171.chunk.js": "/Nihal-Portfolio/static/js/2.d0c54171.chunk.js",
+    "static/js/2.d0c54171.chunk.js.map": "/Nihal-Portfolio/static/js/2.d0c54171.chunk.js.map",
+    "index.html": "/Nihal-Portfolio/index.html",
+    "precache-manifest.e5936e9efed28b95ab46fc9ead5e0fc1.js": "/Nihal-Portfolio/precache-manifest.e5936e9efed28b95ab46fc9ead5e0fc1.js",
+    "service-worker.js": "/Nihal-Portfolio/service-worker.js",
+    "static/css/2.9905d55a.chunk.css.map": "/Nihal-Portfolio/static/css/2.9905d55a.chunk.css.map",
+    "static/css/main.300acb78.chunk.css.map": "/Nihal-Portfolio/static/css/main.300acb78.chunk.css.map",
+    "static/js/2.d0c54171.chunk.js.LICENSE.txt": "/Nihal-Portfolio/static/js/2.d0c54171.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529dbd3c.js",
+    "static/css/2.9905d55a.chunk.css",
+    "static/js/2.d0c54171.chunk.js",
+    "static/css/main.300acb78.chunk.css",
+    "static/js/main.26a6e9ae.chunk.js"
+  ]
+}
